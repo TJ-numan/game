@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "351080009612",
+    "project_id": "ludo-az-game",
+    "storage_bucket": "ludo-az-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351080009612:android:81e13d5e5ac1ad36d290a9",
+        "android_client_info": {
+          "package_name": "com.bdvoiceludoaz.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351080009612-0qhvinjnk0g04gf9jsb39m1uc09rjjn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqoBl5PXnRYoQFRAgKHPsQ3oxuap2riF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351080009612-0qhvinjnk0g04gf9jsb39m1uc09rjjn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
